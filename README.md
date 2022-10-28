@@ -1,4 +1,4 @@
-# lavinia_moda
+# LV Moda Fitness
 
 A new Flutter project.
 
